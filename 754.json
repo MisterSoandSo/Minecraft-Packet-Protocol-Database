@@ -139,9 +139,6 @@
             "ClickWindowButtonPacket":"0x08",
             "ClickWindowPacket":"0x09",
             "CloseWindowPacket":"0x0A",
-
-
-
             "PluginMessagePacket":"0x0B",
             "EditBookPacket":"0x0C",
             "QueryEntityNBTPacket":"0x0D",
